@@ -1,6 +1,9 @@
 # GuitarSongGenerator
 Simple program to create your own easy to play guitar song.  
 
+# Develop Branch
+**IMPORTANT: no release yet, check out the develop branch.**
+
 # Features
 + generates intro, bridge, refrain  
 + supports every basic chord  
